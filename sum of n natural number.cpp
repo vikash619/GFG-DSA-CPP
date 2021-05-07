@@ -13,6 +13,12 @@ int sumofnaturalnumber(int n)
     return sum;
 }
 
+// int sumofnaturalnumber(int n)            //Directly by formula and it will take least time means more efficient one
+// {
+//     return n * (n+1)/2;
+// }
+
+
 int main()
 {
     int n;
